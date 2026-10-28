@@ -71,7 +71,7 @@ quantium-data-analytics-forage/
 | Highest growth potential | Mainstream – Young Singles/Couples |
 | Price premium confirmed | Mainstream Young Singles/Couples pay more per unit (p < 0.05) |
 | Brand affinity | Over-index on Tyrrells vs general population |
-| Pack size preference | 150g–175g packs — consistent with impulse/on-the-go occasions |
+| Pack size preference | ~25% more likely than other shoppers to buy larger packs (270g, 380g, 330g) |
 
 ### Sample Output
 
